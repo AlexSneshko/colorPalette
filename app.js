@@ -89,3 +89,4 @@ function getColorsFromHash() {
 }
 
 setRandomColors(true);
+alert("press space to change colors")
